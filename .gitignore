@@ -1,0 +1,22 @@
+# Virtual Environment (Windows venv)
+Lib/
+Scripts/
+Include/
+share/
+pyvenv.cfg
+
+# If using named venv folder
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.h5
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
