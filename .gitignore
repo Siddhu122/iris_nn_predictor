@@ -13,9 +13,6 @@ env/
 __pycache__/
 *.pyc
 
-# Model files
-*.h5
-*.pth
 
 # OS files
 .DS_Store
