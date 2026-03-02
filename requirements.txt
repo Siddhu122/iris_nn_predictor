@@ -3,7 +3,7 @@ numpy
 tensorflow
 matplotlib
 scikit-learn
-pytorch
+torch
 keras
 seaborn
 mlflow
